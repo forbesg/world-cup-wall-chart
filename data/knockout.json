@@ -1,0 +1,76 @@
+{
+    "rounds": [
+		"Last16" : [
+            "game1": {
+                "Winner Group A": null,
+                "Runner-Up Group B": null
+            },
+            "game2": {
+                "Winner Group C": null,
+                "Runner-Up Group D": null
+            },
+            "game3": {
+                "Winner Group E": null,
+                "Runner-Up Group F": null
+            },
+            "game4": {
+                "Winner Group G": null,
+                "Runner-Up Group H": null
+            },
+            "game5": {
+                "Winner Group B": null,
+                "Runner-Up Group A": null
+            },
+            "game6": {
+                "Winner Group D": null,
+                "Runner-Up Group C": null
+            },
+            "game7": {
+                "Winner Group F": null,
+                "Runner-Up Group E": null
+            },
+            "game8": {
+                "Winner Group H": null,
+                "Runner-Up Group G": null
+            }
+            ],
+	   "Quarters" : [
+			"Quarter1": {
+				"Winner Game 1": null,
+				"Winner Game 2": null
+			},
+			"Quarter2": {
+				"Winner Game 3": null,
+				"Winner Game 4": null
+			},
+			"Quarter3": {
+				"Winner Game 5": null,
+				"Winner Game 6": null
+			},
+			"Quarter4": {
+				"Winner Game 7": null,
+				"Winner Game 8": null
+			}
+			],
+		"Semis" : [
+			"Semi1": {
+				"Winner Quarter 1": null,
+				"Winner Quarter 2": null
+			},
+			"Semi2": {
+				"Winner Quarter 3": null,
+				"Winner Quarter 4": null
+			}
+			],
+		"Finals" : [
+			"Third Place Play-Off": {
+				"Runner-Up Semi1": null,
+				"Runner-Up Semi2": null
+				},
+			"Final": {
+				"Winner Semi1": null,
+				"Winner Semi2": null
+				}
+			]     
+    }
+

@@ -1,0 +1,42 @@
+{
+	"quarter1" : [
+		{ 
+		"team" : "Winner Game 1",
+		"score" : ""
+		},
+		{
+		"team" : "Winner Game 2",
+		"score" : ""
+		}
+		],
+	"quarter2" : [
+		{ 
+		"team" : "Winner Game 3",
+		"score" : ""
+		},
+		{
+		"team" : "Winner Game 4",
+		"score" : ""
+		}
+		],
+	"quarter3" : [
+		{ 
+		"team" : "Winner Game 5",
+		"score" : ""
+		},
+		{
+		"team" : "Winner Game 6",
+		"score" : ""
+		}
+		],
+	"quarter4" : [
+		{ 
+		"team" : "Winner Game 7",
+		"score" : ""
+		},
+		{
+		"team" : "Winner Game 8",
+		"score" : ""
+		}
+		]
+}

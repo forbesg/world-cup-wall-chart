@@ -1,0 +1,83 @@
+{
+	"game1" : [
+	{
+		"team" : "Winners Group A",
+		"score" : ""
+	},
+	{
+		"team" : "Runners-Up Group B",
+		"score" : ""
+	}
+	],
+	"game2" : [
+	{
+		"team" : "Winners Group C",
+		"score" : ""
+	},
+	{
+		"team" : "Runners-Up Group D",
+		"score" : ""
+	}
+	],
+	"game3" : [
+	{
+		"team" : "Winners Group E",
+		"score" : ""
+	},
+	{
+		"team" : "Runners-Up Group F",
+		"score" : ""
+	}
+	],
+	"game4" : [
+	{
+		"team" : "Winners Group G",
+		"score" : ""
+	},
+	{
+		"team" : "Runners-Up Group H",
+		"score" : ""
+	}
+	],
+	"game5" : [
+	{
+		"team" : "Winners Group B",
+		"score" : ""
+	},
+	{
+		"team" : "Runners-Up Group A",
+		"score" : ""
+	}
+	],
+	"game6" : [
+	{
+		"team" : "Winners Group D",
+		"score" : ""
+	},
+	{
+		"team" : "Runners-Up Group C",
+		"score" : ""
+	}
+	],
+	"game7" : [
+	{
+		"team" : "Winners Group F",
+		"score" : ""
+	},
+	{
+		"team" : "Runners-Up Group E",
+		"score" : ""
+	}
+	],
+	"game8" : [
+	{
+		"team" : "Winners Group H",
+		"score" : ""
+	},
+	{
+		"team" : "Runners-Up Group G",
+		"score" : ""
+	}
+	]
+}
+

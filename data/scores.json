@@ -1,0 +1,503 @@
+{
+	"fixtures2014" : {
+		"GroupA" : {
+			"game1" : [
+				{
+					"team":"Brazil", 
+					 "score": null
+				 },
+				 {
+					 "team" : "Croatia", 
+					 "score" : null 
+				 }
+				 ],
+			"game2" : [
+				{
+					"team" : "Mexico",
+					"score" : null
+				},
+				{
+					"team" : "Cameroon",
+					"score" : null
+				}
+				],
+			"game3" : [
+				{
+					"team" : "Brazil",
+					"score" : null
+				},
+				{
+					"team" : "Mexico",
+					"score" : null
+				}
+				],
+			"game4" : [
+				{
+					"team" : "Cameroon",
+					"score" : null
+				},
+				{
+					"team" : "Croatia",
+					"score" : null
+				}
+				],
+			"game5" : [
+				{
+					"team" : "Cameroon",
+					"score" : null
+				},
+				{
+					"team" : "Brazil",
+					"score" : null
+				}
+				],
+			"game6" : [
+				{
+					"team" : "Croatia",
+					"score" : null
+				},
+				{
+					"team" : "Mexico",
+					"score" : null
+				}
+				]
+		},
+		"GroupB" : {
+			"game1" : [
+				{
+					"team":"Spain", 
+					 "score": null
+				 },
+				 {
+					 "team" : "Holland", 
+					 "score" : null 
+				 }
+				 ],
+			"game2" : [
+				{
+					"team" : "Chile",
+					"score" : null
+				},
+				{
+					"team" : "Australia",
+					"score" : null
+				}
+				],
+			"game3" : [
+				{
+					"team" : "Spain",
+					"score" : null
+				},
+				{
+					"team" : "Chile",
+					"score" : null
+				}
+				],
+			"game4" : [
+				{
+					"team" : "Australia",
+					"score" : null
+				},
+				{
+					"team" : "Holland",
+					"score" : null
+				}
+				],
+			"game5" : [
+				{
+					"team" : "Australia",
+					"score" : null
+				},
+				{
+					"team" : "Spain",
+					"score" : null
+				}
+				],
+			"game6" : [
+				{
+					"team" : "Holland",
+					"score" : null
+				},
+				{
+					"team" : "Chile",
+					"score" : null
+				}
+				]
+		},
+		"GroupC" : {
+			"game1" : [
+				{
+					"team":"Colombia", 
+					 "score": null
+				 },
+				 {
+					 "team" : "Greece", 
+					 "score" : null 
+				 }
+				 ],
+			"game2" : [
+				{
+					"team" : "Ivory Coast",
+					"score" : null
+				},
+				{
+					"team" : "Japan",
+					"score" : null
+				}
+				],
+			"game3" : [
+				{
+					"team" : "Colombia",
+					"score" : null
+				},
+				{
+					"team" : "Ivory Coast",
+					"score" : null
+				}
+				],
+			"game4" : [
+				{
+					"team" : "Japan",
+					"score" : null
+				},
+				{
+					"team" : "Greece",
+					"score" : null
+				}
+				],
+			"game5" : [
+				{
+					"team" : "Japan",
+					"score" : null
+				},
+				{
+					"team" : "Colombia",
+					"score" : null
+				}
+				],
+			"game6" : [
+				{
+					"team" : "Greece",
+					"score" : null
+				},
+				{
+					"team" : "Ivory Coast",
+					"score" : null
+				}
+				]
+		},
+		"GroupD" : {
+			"game1" : [
+				{
+					"team":"Uruguay", 
+					 "score": null
+				 },
+				 {
+					 "team" : "Costa Rica", 
+					 "score" : null 
+				 }
+				 ],
+			"game2" : [
+				{
+					"team" : "England",
+					"score" : null
+				},
+				{
+					"team" : "Italy",
+					"score" : null
+				}
+				],
+			"game3" : [
+				{
+					"team" : "Uruguay",
+					"score" : null
+				},
+				{
+					"team" : "England",
+					"score" : null
+				}
+				],
+			"game4" : [
+				{
+					"team" : "Italy",
+					"score" : null
+				},
+				{
+					"team" : "Costa Rica",
+					"score" : null
+				}
+				],
+			"game5" : [
+				{
+					"team" : "Italy",
+					"score" : null
+				},
+				{
+					"team" : "Uruguay",
+					"score" : null
+				}
+				],
+			"game6" : [
+				{
+					"team" : "Costa Rica",
+					"score" : null
+				},
+				{
+					"team" : "England",
+					"score" : null
+				}
+				]
+		},
+		"GroupE" : {
+			"game1" : [
+				{
+					"team":"Switzerland", 
+					 "score": null
+				 },
+				 {
+					 "team" : "Ecuador", 
+					 "score" : null 
+				 }
+				 ],
+			"game2" : [
+				{
+					"team" : "France",
+					"score" : null
+				},
+				{
+					"team" : "Honduras",
+					"score" : null
+				}
+				],
+			"game3" : [
+				{
+					"team" : "Switzerland",
+					"score" : null
+				},
+				{
+					"team" : "France",
+					"score" : null
+				}
+				],
+			"game4" : [
+				{
+					"team" : "Honduras",
+					"score" : null
+				},
+				{
+					"team" : "Ecuador",
+					"score" : null
+				}
+				],
+			"game5" : [
+				{
+					"team" : "Honduras",
+					"score" : null
+				},
+				{
+					"team" : "Switzerland",
+					"score" : null
+				}
+				],
+			"game6" : [
+				{
+					"team" : "Ecuador",
+					"score" : null
+				},
+				{
+					"team" : "France",
+					"score" : null
+				}
+				]
+		},
+		"GroupF" : {
+			"game1" : [
+				{
+					"team":"Argentina", 
+					 "score": null
+				 },
+				 {
+					 "team" : "Bosnia", 
+					 "score" : null 
+				 }
+				 ],
+			"game2" : [
+				{
+					"team" : "Iran",
+					"score" : null
+				},
+				{
+					"team" : "Nigeria",
+					"score" : null
+				}
+				],
+			"game3" : [
+				{
+					"team" : "Argentina",
+					"score" : null
+				},
+				{
+					"team" : "Iran",
+					"score" : null
+				}
+				],
+			"game4" : [
+				{
+					"team" : "Nigeria",
+					"score" : null
+				},
+				{
+					"team" : "Bosnia",
+					"score" : null
+				}
+				],
+			"game5" : [
+				{
+					"team" : "Nigeria",
+					"score" : null
+				},
+				{
+					"team" : "Argentina",
+					"score" : null
+				}
+				],
+			"game6" : [
+				{
+					"team" : "Bosnia",
+					"score" : null
+				},
+				{
+					"team" : "Iran",
+					"score" : null
+				}
+				]
+		},
+		"GroupG" : {
+			"game1" : [
+				{
+					"team":"Germany", 
+					 "score": null
+				 },
+				 {
+					 "team" : "Portugal", 
+					 "score" : null 
+				 }
+				 ],
+			"game2" : [
+				{
+					"team" : "Ghana",
+					"score" : null
+				},
+				{
+					"team" : "USA",
+					"score" : null
+				}
+				],
+			"game3" : [
+				{
+					"team" : "Germany",
+					"score" : null
+				},
+				{
+					"team" : "Ghana",
+					"score" : null
+				}
+				],
+			"game4" : [
+				{
+					"team" : "USA",
+					"score" : null
+				},
+				{
+					"team" : "Portugal",
+					"score" : null
+				}
+				],
+			"game5" : [
+				{
+					"team" : "USA",
+					"score" : null
+				},
+				{
+					"team" : "Germany",
+					"score" : null
+				}
+				],
+			"game6" : [
+				{
+					"team" : "Portugal",
+					"score" : null
+				},
+				{
+					"team" : "Ghana",
+					"score" : null
+				}
+				]
+		},
+		"GroupH" : {
+			"game1" : [
+				{
+					"team":"Belgium", 
+					 "score": null
+				 },
+				 {
+					 "team" : "Algeria", 
+					 "score" : null 
+				 }
+				 ],
+			"game2" : [
+				{
+					"team" : "Russia",
+					"score" : null
+				},
+				{
+					"team" : "South Korea",
+					"score" : null
+				}
+				],
+			"game3" : [
+				{
+					"team" : "Belgium",
+					"score" : null
+				},
+				{
+					"team" : "Russia",
+					"score" : null
+				}
+				],
+			"game4" : [
+				{
+					"team" : "South Korea",
+					"score" : null
+				},
+				{
+					"team" : "Algeria",
+					"score" : null
+				}
+				],
+			"game5" : [
+				{
+					"team" : "South Korea",
+					"score" : null
+				},
+				{
+					"team" : "Belgium",
+					"score" : null
+				}
+				],
+			"game6" : [
+				{
+					"team" : "Algeria",
+					"score" : null
+				},
+				{
+					"team" : "Russia",
+					"score" : null
+				}
+				]
+		}
+		
+	}
+	
+
+}

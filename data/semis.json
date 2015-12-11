@@ -1,0 +1,22 @@
+{
+	"semi1" : [
+	{
+		"team" : "Winner Quarter 1",
+		"score" : ""
+	},
+	{
+		"team" : "Winner Quarter 2",
+		"score" : ""
+	}
+	],
+	"semi2" : [
+	{
+		"team" : "Winner Quarter 3",
+		"score" : ""
+	},
+	{
+		"team" : "Winner Quarter 4",
+		"score" : ""
+	}
+	]
+}

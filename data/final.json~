@@ -1,0 +1,24 @@
+{
+	"final1" : [
+	{
+		"title" : "The Final",
+		"team" : "Winner Semi 1",
+		"score" : ""
+	},
+	{
+		"team" : "Winner Semi 2",
+		"score" : ""
+	}
+	],
+	"final2" : [
+	{
+		"title" : "Third Place Play-off",
+		"team" : "Loser Semi 1",
+		"score" : ""
+	},
+	{
+		"team" : "Loser Semi 3",
+		"score" : ""
+	}
+	]
+}
